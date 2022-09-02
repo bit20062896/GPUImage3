@@ -25,7 +25,9 @@
 	<key>NSCameraUsageDescription</key>
 	<string>Camera image processing</string>
 	<key>NSPhotoLibraryAddUsageDescription</key>
-	<string></string>
+	<string>hanxue</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>hanxue</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
